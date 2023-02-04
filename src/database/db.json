@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "paras khadka",
+      "username": "paras7",
+      "email": "paraskhadka@gmail.com",
+      "phone": "989898989898",
+      "id": 1
+    },
+    {
+      "name": "rabin",
+      "username": "saud",
+      "email": "i@gmail.com",
+      "phone": "1234",
+      "id": 2
+    }
+  ]
+}
